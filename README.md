@@ -1,7 +1,7 @@
 # go-design-pattern
 
 ### Golang语言实现 三大类「创建者」「结构型」「行为」模式
-
+![](.README_images/8f9a11ca.png)
 ## 创建者模式
 ###### 1-工厂方法模式
 ###### 2-抽象工厂模式
